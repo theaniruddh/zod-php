@@ -1,0 +1,8 @@
+{
+    "name": "theani/zod-php",
+    "autoload": {
+        "psr-4": {
+            "THEANI\\Zod\\": "src"
+        }
+    }
+}
